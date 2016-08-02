@@ -1,0 +1,10 @@
+ul {
+  margin: 0;
+ list-style: none;
+ font-family: sans-serif;
+ font-size: 2em;
+}
+ ul li {
+  display: inline-block;
+  text-align: center;
+ }
