@@ -17,6 +17,10 @@ a {
   text-decoration: none;
   color: #d3a;
 }
+
+a:hover {
+  color: #d6ebf2;
+}
 #menu {
   background: #d3d3d3;
   text-align: center;
